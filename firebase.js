@@ -7,7 +7,7 @@ import {getAuth} from "firebase/auth"
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyCBzZ0_BroBPRJNLwbP5Z77NG_DTy54LWY",
+  apiKey: "AIzaSyBem9tG952n41uGyQj48IFhpggWZyO5DyM",
   authDomain: "twitter-clone-2cf08.firebaseapp.com",
   projectId: "twitter-clone-2cf08",
   storageBucket: "twitter-clone-2cf08.appspot.com",
