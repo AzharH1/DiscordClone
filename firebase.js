@@ -12,7 +12,7 @@ const firebaseConfig = {
   projectId: "twitter-clone-2cf08",
   storageBucket: "twitter-clone-2cf08.appspot.com",
   messagingSenderId: "678721975244",
-  appId: "1:678721975244:web:95a65fb27a25b5f282a369"
+  appId: "1:678721975244:web:95a65fb27a25b5f282a369",
 };
 
 // Initialize Firebase
