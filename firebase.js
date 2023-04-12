@@ -6,17 +6,19 @@ import {getAuth} from "firebase/auth"
 // https://firebase.google.com/docs/web/setup#available-libraries
 
 // Your web app's Firebase configuration
+
 const firebaseConfig = {
   apiKey: "AIzaSyBem9tG952n41uGyQj48IFhpggWZyO5DyM",
-  authDomain: "twitter-clone-2cf08.firebaseapp.com",
-  projectId: "twitter-clone-2cf08",
-  storageBucket: "twitter-clone-2cf08.appspot.com",
-  messagingSenderId: "678721975244",
-  appId: "1:678721975244:web:95a65fb27a25b5f282a369",
+  authDomain: "discord-clone-5ddb2.firebaseapp.com",
+  projectId: "discord-clone-5ddb2",
+  storageBucket: "discord-clone-5ddb2.appspot.com",
+  messagingSenderId: "888604773604",
+  appId: "1:888604773604:web:3fa44b592dcb2bb0f9b0f1"
 };
 
 // Initialize Firebase
-const app = initializeApp(firebaseConfig);
+const app = initializeApp(firebaseConfig, "[UNIQUE_NAME]");
+
 const db = getFirestore(app)
 const auth = getAuth(app)
 
