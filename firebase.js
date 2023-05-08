@@ -8,12 +8,12 @@ import {getAuth} from "firebase/auth"
 // Your web app's Firebase configuration
 
 const firebaseConfig = {
-  apiKey: "AIzaSyBem9tG952n41uGyQj48IFhpggWZyO5DyM",
-  authDomain: "discord-clone-5ddb2.firebaseapp.com",
-  projectId: "discord-clone-5ddb2",
-  storageBucket: "discord-clone-5ddb2.appspot.com",
-  messagingSenderId: "888604773604",
-  appId: "1:888604773604:web:3fa44b592dcb2bb0f9b0f1"
+  apiKey: "",
+  authDomain: "",
+  projectId: "",
+  storageBucket: "",
+  messagingSenderId: "",
+  appId: ""
 };
 
 // Initialize Firebase
